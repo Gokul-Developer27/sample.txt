@@ -1,4 +1,4 @@
- 👋 Hi, I'm Gokul Padmarajan
+ 👋 **Hi, I'm Gokul Padmarajan**
 
 ### 🧑‍💻 Backend Developer | Java Specialist | Tech Enthusiast
 
