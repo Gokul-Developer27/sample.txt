@@ -23,7 +23,7 @@ I am progressing myself to develop my skills in creating an amazing websites in 
 
 ### 📫 Let's Connect
 
-- 💼 [LinkedIn] :(https://www.linkedin.com/in/gokul-padmarajan-247940314?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 💼 [LinkedIn] :(https://www.linkedin.com/in/gokul-padmarajan-247940314)
 - 💌 Email :gokulpadmarajan.27@gmail.com
 - 🌐 Portfolio :(https://www.figma.com/proto/FdkKJ39tzT2vVtPvC57qoD/Gokul-s-Portfolio?node-id=0-1&t=2Uzg75FpCzHhGHmx-1)
 
